@@ -1,0 +1,2 @@
+export default { content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: { colors: { bg: '#F6F7F9', surface: '#FFFFFF', border: '#E6E8EC', inputBorder: '#D3D7DE', ink: '#1C2128', ink2: '#3D4450', muted: '#5F6773', accent: '#2557D6', accentHover: '#1A3FA3', accentSoft: '#EEF2FC', danger: '#B42318' }, fontFamily: { sans: ['Figtree', 'system-ui', 'sans-serif'] }, borderRadius: { card: '14px', ctl: '10px' } } }, plugins: [] };
+

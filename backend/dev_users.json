@@ -1,0 +1,6 @@
+[
+  {"employee_id":"E101","name":"Riya Sen","email":"riya@company.test","groups":["permanent"]},
+  {"employee_id":"M201","name":"Arun Das","email":"arun@company.test","groups":["manager"]},
+  {"employee_id":"H001","name":"HR Head","email":"hr@company.test","groups":["hr"]},
+  {"employee_id":"E102","name":"Other Employee","email":"other@company.test","groups":["permanent"]}
+]

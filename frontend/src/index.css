@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,body,#root{min-height:100%;}body{background:#F6F7F9;color:#1C2128;font-family:Figtree,system-ui,sans-serif;font-size:15px}button,a,input,select{transition:background-color .15s,border-color .15s}button:disabled{opacity:.55;cursor:not-allowed}:focus-visible{outline:2px solid #2557D6;outline-offset:2px}.fjs-container{--font-family:Figtree,system-ui,sans-serif}.fjs-container .fjs-powered-by{display:none}.fjs-form{padding:0!important}.fjs-container input,.fjs-container select,.fjs-container textarea{border-radius:9px!important}.fjs-container label{font-weight:600}

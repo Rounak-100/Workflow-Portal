@@ -1,0 +1,11 @@
+services:
+  portal:
+    environment:
+      CAMUNDA_URL: http://camunda:8080/engine-rest
+      AUTH_MODE: dev
+    networks:
+      - studio
+networks:
+  studio:
+    external: true
+    name: workflow-studio_default
